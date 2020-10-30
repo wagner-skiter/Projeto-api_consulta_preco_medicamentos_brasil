@@ -1,4 +1,4 @@
-# Projeto-api_consuta_preco_medicamentos_brasil
+# Projeto-api_consulta_preco_medicamentos_brasil
 Nesse projeto irei criar uma API para o consumidor sobre os preços dos medicamentos no Brasil.
 
 
